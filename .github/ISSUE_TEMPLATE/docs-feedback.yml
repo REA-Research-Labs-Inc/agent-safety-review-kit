@@ -1,0 +1,25 @@
+name: Documentation feedback
+description: Suggest a correction or improvement to the checklist, scenarios, or templates.
+labels: ["docs"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Social Media handles issue intake and triage, coordinating with the CTO on technical and security matters. Response times are not guaranteed. Use public issues only for non-sensitive documentation feedback; do not include secrets, private data, vulnerabilities or exploit details. See SECURITY.md: private reporting is planned, not yet enabled or verified.
+  - type: input
+    id: file
+    attributes:
+      label: File or section
+      placeholder: docs/checklist.md, section 5
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What is unclear, missing, or wrong?
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Suggested change (optional)

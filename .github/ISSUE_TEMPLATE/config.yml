@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security policy — private route not yet live
+    url: https://github.com/REA-Research-Labs-Inc/agent-safety-review-kit/blob/main/SECURITY.md
+    about: Planned policy URL; may not exist until publication. Private reporting must be enabled AND verified before use. Never put sensitive reports in public issues.

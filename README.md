@@ -60,7 +60,7 @@ These are independent sources reviewers may find useful. Listing them is not an 
 
 ## About
 
-Maintained by REA Research Labs. REA builds ControlPlane, runtime control and security for AI agents: https://reacontrolplane.com. The kit is vendor-neutral and requires nothing from REA.
+Maintained by REA Research Labs, Inc. REA builds ControlPlane, runtime control and security for AI agents: https://reacontrolplane.com. The kit is vendor-neutral and requires nothing from REA.
 
 ## License
 

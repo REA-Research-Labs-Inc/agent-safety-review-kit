@@ -1,6 +1,6 @@
 # Contributing
 
-Thank you for considering a contribution. This is a docs-only kit and is still a draft.
+Thank you for considering a contribution. This is a docs-only kit.
 
 ## What helps
 
@@ -20,8 +20,8 @@ Thank you for considering a contribution. This is a docs-only kit and is still a
 
 Open an issue describing the change before large edits. Contributions may not be accepted.
 
-Social Media handles issue intake and triage, coordinating with the CTO on technical and security matters. Response times are not guaranteed. Use public issues only for non-sensitive documentation feedback; do not include secrets, private data, vulnerabilities or exploit details. See [SECURITY.md](SECURITY.md) for the intended private route, which is not yet enabled or verified.
+REA Research Labs, Inc. maintainers review issues. Response times are not guaranteed. Use public issues only for non-sensitive documentation feedback; do not include secrets, private data, vulnerabilities or exploit details. For sensitive reports, use GitHub private vulnerability reporting as described in [SECURITY.md](SECURITY.md).
 
 ## License of contributions
 
-Submit original documentation contributions under CC BY 4.0, the project content license. You must have the rights needed to contribute. See [LICENSE](LICENSE) and [LICENSE-SCOPE.md](LICENSE-SCOPE.md) for scope and brand exclusions. This local draft is not yet published; no contribution intake is claimed live.
+Submit original documentation contributions under CC BY 4.0, the project content license. You must have the rights needed to contribute. See [LICENSE](LICENSE) and [LICENSE-SCOPE.md](LICENSE-SCOPE.md) for scope and brand exclusions.

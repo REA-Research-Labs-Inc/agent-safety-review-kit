@@ -5,7 +5,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Social Media handles issue intake and triage, coordinating with the CTO on technical and security matters. Response times are not guaranteed. Use public issues only for non-sensitive documentation feedback; do not include secrets, private data, vulnerabilities or exploit details. See SECURITY.md: private reporting is planned, not yet enabled or verified.
+        REA Research Labs, Inc. maintainers review issues. Response times are not guaranteed. Use public issues only for non-sensitive documentation feedback; do not include secrets, private data, vulnerabilities or exploit details. For sensitive reports, use private vulnerability reporting as described in SECURITY.md.
   - type: input
     id: file
     attributes:

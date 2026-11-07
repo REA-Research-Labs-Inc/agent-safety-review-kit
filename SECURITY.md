@@ -14,10 +14,10 @@ https://github.com/REA-Research-Labs-Inc/agent-safety-review-kit/security/adviso
 
 Do not send sensitive reports through public channels. Do not submit real secrets or private data even in a reproduction; use sanitized examples.
 
-Private reports are accessible only to authorized GitHub roles and explicitly authorized advisory collaborators under GitHub's access controls. Social Media's public issue-intake role does not itself grant access to private reports. No monitoring schedule or response SLA is established.
+Private reports are accessible only to authorized GitHub roles and explicitly authorized advisory collaborators under GitHub's access controls. Triaging public issues does not by itself grant access to private reports. No monitoring schedule or guaranteed response time is established.
 
 ## Non-sensitive documentation feedback
 
-Social Media handles issue intake and triage, coordinating with the CTO on technical and security matters. Response times are not guaranteed. Use public issues only for non-sensitive documentation feedback; do not include secrets, private data, vulnerabilities or exploit details.
+REA Research Labs, Inc. maintainers review issues. Response times are not guaranteed. Use public issues only for non-sensitive documentation feedback; do not include secrets, private data, vulnerabilities or exploit details.
 
 This kit makes no security guarantee and does not certify any system. See the [README](README.md#limitations).

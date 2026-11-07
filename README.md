@@ -6,7 +6,7 @@ Practical checks before an agent can act.
 
 A vendor-neutral, docs-only kit for reviewing an AI agent before it is allowed to call tools, touch data, or take actions with real consequences. It is a checklist, a set of failure-scenario cards, and blank worksheets. It works without any product, account, SDK, or API key.
 
-> **Status: local draft; not published.** Content license selected: CC BY 4.0. See [License](#license) for scope and brand exclusions. Publication approval remains separate.
+> Docs-only review resource. Content is licensed under CC BY 4.0; see [License](#license) for scope and brand exclusions.
 
 ## Who this is for
 
@@ -66,4 +66,4 @@ Maintained by REA Research Labs. REA builds ControlPlane, runtime control and se
 
 Copyright 2026 REA Research Labs, Inc. Prose, checklists, templates, and the fictional example are licensed under CC BY 4.0. See [LICENSE](LICENSE) and [license scope and brand exclusions](LICENSE-SCOPE.md). Logo/banner artwork is excluded; trademark rights are reserved.
 
-Intended organization: https://github.com/REA-Research-Labs-Inc. Intended repository: https://github.com/REA-Research-Labs-Inc/agent-safety-review-kit (planned; not verified live). For sensitive feedback, read [SECURITY.md](SECURITY.md); the intended private reporting route is not yet enabled or verified.
+Organization: https://github.com/REA-Research-Labs-Inc. Repository: https://github.com/REA-Research-Labs-Inc/agent-safety-review-kit. For sensitive flaws in this kit's guidance, follow [SECURITY.md](SECURITY.md). GitHub private vulnerability reporting is enabled. Never include sensitive reports in public issues.
